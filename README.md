@@ -1,5 +1,5 @@
 
-### hey there I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### <h1>Hey there I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <br />
 
 Full Stack Developer de Colombia con gran pasión por el mundo del software adoro, escribir código, tener ideas novedosas y hacer interfaces elegantes intuitivas para todo tipo de público.Me gusta experimentar nuevas tecnologías y trabajar en equipo para lograr un objetivo.
@@ -37,8 +37,11 @@ He realizado varios proyectos todo desde un entorno JavaScipt, como una app del 
 
 **📈 my github stats:**  
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lucas-fullstackx&show_icons=true" alt="abhisheknaiidu" />
+<div>
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=lucas-fullstackx&bg_color=0D1117&title_color=00AFEC&text_color=fff&show_icons=true" alt="abhisheknaiidu" />
+  <img align="center" height="150px" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="abhisheknaiidu" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-fullstackx&show_icons=true&bg_color=0D1117&text_color=fff&title_color=00AFEC&layout=compact" alt="abhisheknaiidu" />
+  </div>
 <!--
 **Lucas-FullStackX/Lucas-FullStackX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
