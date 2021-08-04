@@ -2,7 +2,7 @@
 ### <h1>Hey there I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 Full Stack Developer de Colombia con gran pasión por el mundo del software adoro, escribir código, tener ideas novedosas y hacer interfaces elegantes intuitivas para todo tipo de público.Me gusta experimentar nuevas tecnologías y trabajar en equipo para lograr un objetivo.
 
-He realizado varios proyectos todo desde un entorno JavaScipt, como una <a href="https://weather-app-kappa-drab.vercel.app/">app del clima</a>, una <a href="https://lucas-fullstackx.github.io/Movies-App">app de peliculas  </a>, <a href="https://lucas-fullstackx.github.io/toDoList">to do list </a>,otra app de perros y más proyectos personales en los que trabajo con mucha dedicación y esmero. ¡Me encanta aprender haciendo, nunca paro de aprender!
+He realizado varios proyectos todo desde un entorno JavaScipt, como una <a href="https://weather-app-kappa-drab.vercel.app/">app del clima</a>, una <a href="https://lucas-fullstackx.github.io/Movies-App">app de peliculas  </a>, <a href="https://lucas-fullstackx.github.io/toDoList">to do list </a>, <a href="https://lucas-fullstackx.github.io/Dogs/">app de perros</a> y más proyectos personales en los que trabajo con mucha dedicación y esmero. ¡Me encanta aprender haciendo, nunca paro de aprender!
 <hr/>
 
 
